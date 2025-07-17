@@ -1,0 +1,5 @@
+apiVersion: v2
+name: helloworld
+description: Um chart Helm simples para um aplicativo hello world
+version: 0.1.0
+appVersion: "1.16.0"
